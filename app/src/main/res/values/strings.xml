@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MercadoPagoDemo</string>
+
+    <string name="amount_title">Monto a Pagar</string>
+    <string name="amount_pay">Pagar</string>
+    <string name="amount_zero">$ 0,00</string>
+    <string name="paymentmethod_title">Método de Pago</string>
+    <string name="paymentmethod_action">Seleccione un Método de Pago</string>
+    <string name="paymentmethod_alert">Alerta</string>
+    <string name="paymentmethod_invalidamount_placeholder">El monto ingresado no es válido para el método de pago seleccionado\n\nPago mínimo: %s\nPago máximo: %s</string>
+    <string name="paymentmethod_chooseagain">Seleccionar otro Medio de Pago</string>
+    <string name="paymentmethod_correctamount">Corregir Monto a pagar</string>
+    <string name="accreditationtime_title">Plazo de Acreditación</string>
+    <string name="cardissuer_title">Emisor de Tarjeta</string>
+    <string name="cardissuer_action">Seleccione un Banco</string>
+    <string name="installments_title">Cuotas</string>
+    <string name="installments_quantity_placeholder">%d Cuotas</string>
+    <string name="installments_action">Seleccione la cantidad de Cuotas</string>
+    <string name="installments_payment">Realizar Pago</string>
+    <string name="installments_payment_confirmation">¿Confirma la realización del Pago?</string>
+    <string name="installments_cancel">Cancelar</string>
+    <string name="installments_confirm">Confirmar</string>
+
+    <string name="all_accreditationtime_placeholder">%dHs</string>
+    <string name="all_accreditationtime_inmediate">Inmediato</string>
+
+</resources>
